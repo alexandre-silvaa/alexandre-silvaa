@@ -30,3 +30,7 @@
  <img align="center" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
  <img align="center" alt="SQLServer" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/> 
 </div>
+
+<hr>
+
+![Snake animation](https://github.com/alexandre-silvaa/alexandre-silvaa/blob/output/github-contribution-grid-snake.svg)
