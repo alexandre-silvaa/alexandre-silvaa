@@ -4,7 +4,7 @@
 
 🤓 My name is Alexandre Barbosa da Silva and I'm 19 years old. </br>
 💻 I'm a systems development technician. </br>
-📚 I study systems analysis and development at FATEC Sorocaba. </br>
+📚 I study systems analysis and development at Universidade de Sorocaba. </br>
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandre-silvaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ALexandre Silva github stats" /> 
