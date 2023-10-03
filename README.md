@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44475a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🤓 My name is Alexandre Barbosa da Silva and I'm 19 years old. </br>
+🤓 My name is Alexandre Barbosa da Silva and I'm 20 years old. </br>
 💻 I'm a systems development technician. </br>
 📚 I study systems analysis and development at Universidade de Sorocaba. </br>
 
