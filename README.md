@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44475a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🤓 My name is Alexandre Barbosa da Silva and I'm 20 years old. </br>
-💻 I'm a systems development technician. </br>
+🤓 My name is Alexandre Barbosa da Silva </br>
+💻 I'm a systems development techI'm a full-stack developer with a passion for technology and innovation, with a diverse background and solid experience in software development. I work on challenging projects using Spring Boot and React.js, as well as several other technologies. I have dedicated myself to creating efficient and scalable solutions for clients, always seeking to improve my skills and knowledge.nician. </br>
 📚 I study systems analysis and development at Universidade de Sorocaba. </br>
 
  <div align="center">  
@@ -23,14 +23,15 @@
 ## Languages and tools
 
  <div align="center">
-  <img align="center" alt="Laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
-  <img align="center" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Django" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="React" width="50px" src="https://icongr.am/devicon/react-original.svg?size=128&color=ffffff"/>
+  <img align="center" alt="Node" width="50px" src="https://devicons.railway.app/i/nodejs.svg"/>
+  <img align="center" alt="NestJs" width="50px" src="https://devicons.railway.app/i/nestjs.svg"/>
+  <img align="center" alt="Spring Boot" width="50px" src="https://devicons.railway.app/i/spring.svg"/>
+  <img align="center" alt="VsCode" width="50px" src="https://devicons.railway.app/i/visual-studio-code.svg"/>
+  <img align="center" alt="GitHub" width="50px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"/>
+  <img align="center" alt="Postman" width="50px" src="https://devicons.railway.app/i/postman.svg"/>
   <img align="center" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
  </div>
 
